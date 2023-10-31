@@ -38,7 +38,11 @@ nav a{
 }
 #email {
     width: 640px;
-    height: 30px;
+    height: 30px; 
+}
+#message {
+        width: 640px;
+        height: 80px;
 }
 h1 {
         position: absolute;
